@@ -11,12 +11,14 @@ Conducted z-test statistical analysis on over 1M non-UK transactions to uncover 
 
 Built interactive visualizations using Matplotlib and integrated them into dashboards for real-time data monitoring.
 
-🚀 Run the Project
+How to Run the Project-
+
 Click the link below to open and run the notebook in Google Colab:
 
 https://colab.research.google.com/drive/1oBlOA42JLUv3yXLSFCxKdHg-_7uksBPv#scrollTo=MMFKP6ZSafuq
 
-🛠 Technologies Used
+🛠 Technologies Used-
+
 Python
 
 ARIMA & SARIMAX modeling
